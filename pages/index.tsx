@@ -1,6 +1,5 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
-import Dynamic from './dynamic'
 import Header from '@/src/components/header'
 import { Button, Container } from 'reactstrap'
 import Link from 'next/link'
